@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+
+    <!--  Pantalla Principal  -->
+    <string name="home_title">Personajes</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
+
+    <!-- Pantalla de Detalles   -->
+    <string name="first_location">Primera Aparición:</string>
+    <string name="last_location">Última Localización:</string>
+    <string name="specie">Especie:</string>
+    <string name="status">Estado:</string>
+    <string name="gender">Género:</string>
+</resources>
